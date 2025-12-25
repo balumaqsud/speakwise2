@@ -39,9 +39,9 @@ Many English learners understand grammar and vocabulary but struggle with **spea
 
 ## 🛠️ Tech Stack (Optional)
 
-- Frontend: _(e.g., React, HTML, CSS)_
-- Backend: _(e.g., Node.js, Python)_
-- Speech Processing: _(e.g., Web Speech API)_
+- Frontend: _(e.g., Typescript, NextJs, Tailwind)_
+- Backend: _(e.g., Firebase)_
+- AI: _(Vapi, Gemini, etc)_
 
 _(Adjust this section based on your actual implementation.)_
 
